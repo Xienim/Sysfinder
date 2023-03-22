@@ -28,7 +28,7 @@ The plugin stores all values ​​found inside a .tmp file inside the x64dbg di
 ## To-Do
 
 - implement logging of parameters passed to direct system calls.
-- Bypass Anti-RE techniques using direct syscalls.
+- Syscalls Anti-RE tricks bypass.
 - Graphic generation of the execution of direct syscalls
 
 
