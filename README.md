@@ -30,5 +30,6 @@ The plugin stores all values ​​found inside a .tmp file inside the x64dbg di
 - implement logging of parameters passed to direct system calls.
 - Syscalls Anti-RE tricks bypass.
 - Graphic generation of the execution of direct syscalls
+- EGG identification
 
 
